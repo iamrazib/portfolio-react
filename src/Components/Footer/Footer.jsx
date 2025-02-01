@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="footer-top">
                 <div className="footer-top-left">
                     <img src={logo}  width={100} height={70} alt="" />
-                    <p>I am a backend developer from Dhaka, Bangladesh with 15+ years of experience in multiple companies like Netweaver Software, Beximco Textiles, Dutch-Bangla Bank, Mutual Trust Bank and Pubali Bank</p>
+                    <p>I am a backend developer from Dhaka, Bangladesh with 15+ years of experience in multiple companies like Netweaver Software, Beximco Textiles, Dutch-Bangla Bank PLC., Mutual Trust Bank PLC. and Pubali Bank PLC.</p>
                 </div>
                 <div className="footer-top-right">
                     <div className="footer-email-input">
